@@ -1,0 +1,3 @@
+[submodule "includes/connectedweb"]
+	path = includes/connectedweb
+	url = https://github.com/connectedwebproject/php
